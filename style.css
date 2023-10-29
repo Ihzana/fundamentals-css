@@ -18,9 +18,9 @@ body {
 
 .business-card { 
     width: 500px; 
-    background-color: rgba(5, 0, 0, 0.8);  
+    background-color: #590928;  
     padding: 20px; 
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+    box-shadow: 0px 0px 10px #590928; 
     display: flex; 
     align-items: center; 
 } 
